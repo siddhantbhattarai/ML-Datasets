@@ -1,7 +1,7 @@
 # Data Sets to Uplift your Skills 
 
 
-+ Data Science Dojo has added more than 43 data sets to this repository. 
++ This repo has more than 43 data sets to this repository. 
 + The repository carries a diverse range of themes, difficulty levels, sizes and attributes. 
 + They offer hands-on practice to boost their skills in exploratory data analysis, data visualization, data wrangling and machine learning.
 + The data sets below have been sorted with increasing level of difficulty for convenience (Beginner, Intermediate, Advanced).
